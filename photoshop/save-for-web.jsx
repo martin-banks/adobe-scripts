@@ -159,7 +159,7 @@ function processFile (doc) {
     // alert('Processing file error', + e);
 
   } finally {
-    alert('Process complete')
+    // alert('Process complete')
   }
 
 }
